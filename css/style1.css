@@ -1,0 +1,66 @@
+body {
+    font-family: 'Lora', serif;
+    color: #555555;
+    font-size: 10pt;
+}
+* {
+    box-sizing: border-box;
+}
+#tartalom {
+    max-width: 700px;
+    width: 90%;
+    margin: 0 auto;
+}
+#fejlec {
+}
+
+#fejlec img {
+    max-width: 700px;
+    margin: 0 auto;
+    width: 100%;
+}
+#recept {
+}
+
+#bevezeto {
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.fank {
+    float: left;
+    max-width: 421px;
+    width: 100%;
+    padding: 0 0 20px 0;
+}
+#hozzavalok {
+    padding: 0 20px 0 20px;
+    float: left;
+}
+#reszletek {
+    content: '';
+    clear: both;
+    display: table;
+}
+#sztori {
+    max-width: 310px;
+    float: left;
+    padding: 10px 0 0 20px;
+}
+h2 {
+    margin: 0;
+    padding: 0 0 10px 0;
+}
+#elkeszites {
+    max-width: 380px;
+    float: left;
+    padding: 10px 20px 0 20px;
+}
+
